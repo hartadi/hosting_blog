@@ -1,2 +1,2 @@
 # hosting_blog
-Hosting Gambar Blog
+Hosting Gambar Blog (http://rudyhartadi.web.id)
